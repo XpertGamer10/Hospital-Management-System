@@ -1,0 +1,5 @@
+mysql-connector-python
+prettytable
+tabulate
+uuid
+getpass4
