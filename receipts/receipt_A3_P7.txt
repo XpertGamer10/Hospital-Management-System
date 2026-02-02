@@ -1,0 +1,23 @@
+🏥  HOSPITAL APPOINTMENT RECEIPT
+==================================================
+Receipt Generated : 27-Nov-2025 11:36 PM
+--------------------------------------------------
+Patient ID    : 7
+Patient Name  : Ayush Dey
+Age / Gender  : 17 / Male
+Phone         : 8272951169
+Email         : ayushdey@gmail.com
+Address       : ABC colony
+--------------------------------------------------
+Doctor        : Dr. Dr. Parijat Debchoudhury (Cardiologist)
+Experience    : 21 years
+Consultation  : ₹700.00
+--------------------------------------------------
+Appointment ID: 3
+Appointment   : 2025-12-31 | 10:00 AM - 11:00 AM
+Reason        : Heart Checkup
+Status        : Scheduled
+--------------------------------------------------
+Amount Paid   : ₹700.00
+==================================================
+Thank you for choosing our hospital ❤️
