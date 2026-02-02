@@ -1,0 +1,15 @@
+-------------------------------------------
+        DEATH CERTIFICATE        
+-------------------------------------------
+Certificate ID : 3
+Name           : Ayush Dey
+Type           : Death
+Parent/Guardian: Ajoy Dey
+Date of Birth  : 2008-07-10
+Date of Death  : 2026-02-20
+Place of Event : Hospital
+Date Issued    : 2025-11-28 00:45:16
+Notes          : 
+-------------------------------------------
+Certified by: Hospital Management System
+-------------------------------------------

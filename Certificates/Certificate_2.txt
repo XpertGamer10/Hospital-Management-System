@@ -1,0 +1,15 @@
+-------------------------------------------
+        BIRTH CERTIFICATE        
+-------------------------------------------
+Certificate ID : 2
+Name           : Ayush Dey
+Type           : Birth
+Parent/Guardian: Ajoy Dey
+Date of Birth  : 2008-07-10
+Date of Death  : None
+Place of Event : Hospital
+Date Issued    : 2025-11-28 00:40:54
+Notes          : 
+-------------------------------------------
+Certified by: Hospital Management System
+-------------------------------------------
